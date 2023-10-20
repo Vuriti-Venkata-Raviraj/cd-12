@@ -1,0 +1,28 @@
+/* Write your code here. */
+
+.main-container {
+  padding: 35px;
+  text-align: start;
+  font-family: Roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.main-img {
+  height: 400px;
+  width: 1000px;
+}
+
+.title {
+  color: #1e293b;
+}
+.para {
+  color: #64748b;
+}

@@ -1,0 +1,14 @@
+/* Write your code here. */
+.list-item {
+  list-style: none;
+  margin-right: 15px;
+}
+
+.thumbnail-img {
+  height: 70px;
+  opacity: 0.5;
+}
+
+.change-opacity {
+  opacity: 1;
+}
